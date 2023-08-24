@@ -1,3 +1,29 @@
+Readme file edited by William V
+
+                  __ooooooooo__
+              oOOOOOOOOOOOOOOOOOOOOOo
+          oOOOOOOOOOOOOOOOOOOOOOOOOOOOOOo
+       oOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOo
+     oOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOo
+   oOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOo
+  oOOOOOOOOOOO*  *OOOOOOOOOOOOOO*  *OOOOOOOOOOOOo
+ oOOOOOOOOOOO      OOOOOOOOOOOO      OOOOOOOOOOOOo
+ oOOOOOOOOOOOOo  oOOOOOOOOOOOOOOo  oOOOOOOOOOOOOOo
+oOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOo
+oOOOO     OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO     OOOOo
+oOOOOOO OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO OOOOOOo
+ *OOOOO  OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO  OOOOO*
+ *OOOOOO  *OOOOOOOOOOOOOOOOOOOOOOOOOOOOO*  OOOOOO*
+  *OOOOOO  *OOOOOOOOOOOOOOOOOOOOOOOOOOO*  OOOOOO*
+   *OOOOOOo  *OOOOOOOOOOOOOOOOOOOOOOO*  oOOOOOO*
+     *OOOOOOOo  *OOOOOOOOOOOOOOOOO*  oOOOOOOO*
+       *OOOOOOOOo  *OOOOOOOOOOO*  oOOOOOOOO*      
+          *OOOOOOOOo           oOOOOOOOO*      
+              *OOOOOOOOOOOOOOOOOOOOO*          
+                   ""ooooooooo""
+                   
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
+
 # Augur NEW Release v0.51.1
 
 [![first-timers-only](https://img.shields.io/badge/first--timers--only-friendly-blue.svg?style=flat-square)](https://www.firsttimersonly.com/) We follow the [First Timers Only](https://www.firsttimersonly.com/) philosophy of tagging issues for first timers only, and walking one newcomer through the resolution process weekly. [You can find these issues tagged with "first timers only" on our issues list.](https://github.com/chaoss/augur/labels/first-timers-only).
